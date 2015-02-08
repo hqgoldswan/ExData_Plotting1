@@ -1,5 +1,6 @@
 ## How to run the script
 1) Download data set and extract it to have "household_power_consumption.txt" in the working directory
+
 2) To get plot1.png, plot2.png, plot3.png, plot4.png please help run the corresponding script file plot1.R, plot2.R, plot3.R, plot4.R
 
 ## Introduction
